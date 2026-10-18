@@ -1,0 +1,6 @@
+faster-whisper==1.2.1
+av==18.1.0
+pymorphy3==2.0.6
+numpy==1.26.4
+rapidocr==3.10.0
+opencv-python-headless==4.11.0.86
